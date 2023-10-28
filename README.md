@@ -2,9 +2,17 @@
 
 # SOBRE MIM
 
-Brasileiro, formando na área de **Redes de Computadores**, com vocação para **Back-End** e atuação em projetos de _**Data Science**_, _**Segurança da Informação**_, _**Estatística**_, _**Automação Comercial**_ e _**Gestão da Informação**_.
+Brasileiro, graduando em **Tecnologia em Redes de Computadores**, desenvolvedor **Python** e apaixonado por computação.
 
+_**The future is already here**_
 
+# ÁREAS DE INTERESSE
+- Automação Comercial;
+- _Cyber Security_;
+- _Data Science_;
+- _Deep Learning_;
+- _Machine Learning_;
+- _IA_;
 
 # PROJETOS QUE ESTOU ENVOLVIDO
 
