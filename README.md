@@ -1,5 +1,3 @@
-<img src="https://github.com/mquelucci/mquelucci/blob/173c939909cfd06d5c7264a33abce7de66aef967/banner%20github.png">
-
 # SOBRE MIM
 
 Brasileiro, graduando em **Tecnologia em Redes de Computadores**, desenvolvedor **Python** e apaixonado por computação.
