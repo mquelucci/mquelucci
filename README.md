@@ -1,4 +1,4 @@
-<img src="https://github.com/mquelucci/mquelucci/blob/173c939909cfd06d5c7264a33abce7de66aef967/banner%20github.png">
+<img src="https://github.com/mquelucci/mquelucci/blob/224364461d14b8906438f1bdbe55ba747ad8545f/banner%20github.png">
 
 # SOBRE MIM
 
