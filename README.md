@@ -2,7 +2,9 @@
 
 # SOBRE MIM
 
-Brasileiro, graduando em **Tecnologia em Redes de Computadores**, desenvolvedor **Python** e apaixonado por computação.
+- Brasileiro;
+- **Tecnológo em Redes de Computadores** pelo IFSMG - _Campus_ Inconfidentes;
+- Desenvolvedor _backend_.
 
 _**The future is already here**_
 
