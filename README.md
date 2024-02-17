@@ -3,7 +3,7 @@
 
 <h2>About me</h2>
 <ul>
-  <li>Computer Network Technologist - IFSMG <i>Campus</i> Inconfidentes</li>
+  <li>Computer Network Tech - IFSMG <i>Campus</i> Inconfidentes</li>
   <li>Backend Developer</li>
 </ul>
 
@@ -20,6 +20,7 @@
   <li>Domotic</li>
   <li>Cyber Security</li>
   <li>Data Science</li>
+  <li>SQL</li>
 </ul>
 
 <h2>Languages</h2>
@@ -47,5 +48,3 @@
 <h2>Status</h2>
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=mquelucci&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mquelucci&count_private=true)
