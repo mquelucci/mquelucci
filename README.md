@@ -7,6 +7,14 @@
   <li>Backend Developer</li>
 </ul>
 
+<h2>Connect with me</h2>
+<div>
+  <a href="https://www.linkedin.com/in/matheus-quelucci-de-almeida/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30px" width="40px"/>
+  </a>
+</div>
+
+
 <h2>Skills</h2>
 <ul>
   <li>Domotic</li>
